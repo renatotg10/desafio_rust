@@ -5,8 +5,6 @@ https://www.torneseumprogramador.com.br/
 
 ## Instalação do Rust
 
-### Instalação no Windows
-
 Aqui estão as instruções básicas para instalar o Rust nos sistemas operacionais Windows, Linux e MacOS:
 
 ### Windows:
